@@ -1,2 +1,0 @@
-# FinneganLT
-My website!
